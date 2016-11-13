@@ -239,6 +239,14 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="card_primary_title_bottom_padding">16dp</dimen>
+    <dimen name="card_primary_title_top_padding">24dp</dimen>
+    <dimen name="card_subtitle_text_size">14sp</dimen>
+    <dimen name="card_title_padding_end">16dp</dimen>
+    <dimen name="card_title_padding_start">16dp</dimen>
+    <dimen name="card_title_text_size">24sp</dimen>
     <!-- From: file:/F:/AndroidVault/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
@@ -293,6 +301,12 @@
     <dimen name="detail_body_top_margin">16dp</dimen>
     <dimen name="detail_card_max_width">10000dp</dimen>
     <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="detail_content_end_margin">24dp</dimen>
+    <dimen name="detail_content_start_margin">56dp</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/macro_layout.xml -->
+    <eat-comment/>
     <dimen name="detail_inner_horiz_margin">16dp</dimen>
     <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
     <dimen name="detail_metabar_vert_padding">16dp</dimen>
@@ -323,6 +337,11 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="list_padding_between_items">4dp</dimen>
+    <dimen name="list_padding_left">4dp</dimen>
+    <dimen name="list_padding_right">4dp</dimen>
     <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
     <dimen name="list_side_margin">4dp</dimen>
@@ -344,6 +363,11 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="screen_margin_material">4dp</dimen>
+    <!-- From: file:/F:/AndroidVault/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/dimens.xml -->
@@ -436,6 +460,9 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ipsum_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <!-- From: file:/F:/AndroidVault/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="search_menu_title">Search</string>

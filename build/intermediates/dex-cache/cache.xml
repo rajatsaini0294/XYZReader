@@ -9,6 +9,13 @@
         <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\volley-c3c033685f6a4b1cac62c121c582affab04fcfd3.jar" />
     </item>
     <item
+        jar="C:\Users\rajat\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\picasso-2.5.2-ac578b420333fdd31ad7087ce8f2fa06fb919f4e.jar" />
+    </item>
+    <item
         jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\classes.jar"
         jumboMode="false"
         revision="25.0.0"
