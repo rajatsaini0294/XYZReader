@@ -3,11 +3,13 @@ package com.example.xyzreader.ui;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.LoaderManager;
+import android.content.Intent;
 import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v13.app.FragmentStatePagerAdapter;
+import android.support.v4.app.ShareCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
@@ -70,7 +72,18 @@ public class ArticleDetailActivity extends ActionBarActivity
             }
         });
 
-       // mUpButtonContainer = findViewById(R.id.up_container);
+        final ArticleDetailActivity baseActivity = this;
+        findViewById(R.id.floating_share_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(baseActivity)
+                        .setType("text/plain")
+                        .setText("text here").getIntent(),
+                        getString(R.string.action_share)));
+            }
+        });
+
+        // mUpButtonContainer = findViewById(R.id.up_container);
 
      /*   mUpButton = findViewById(R.id.action_up);
         mUpButton.setOnClickListener(new View.OnClickListener() {

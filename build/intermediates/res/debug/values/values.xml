@@ -462,6 +462,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <!-- From: file:/F:/AndroidVault/XYZReader/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="content_share">share content</string>
     <string name="ipsum_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <!-- From: file:/F:/AndroidVault/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
