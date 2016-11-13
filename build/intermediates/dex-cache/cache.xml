@@ -100,11 +100,25 @@
         <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-311068c8fdce39eb5dd084daf27737ac3c5be15f.jar" />
     </item>
     <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.0\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-e43d274f234bdde3ae29bf65d97d17fb20adcac5.jar" />
+    </item>
+    <item
         jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\classes.jar"
         jumboMode="false"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-ffe114067feddeabb48c6a1cc18623eff51ec2cb.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-f9ae1ff3283b8ad11f1a3427a047efc2158072dd.jar" />
     </item>
     <item
         jar="C:\Users\rajat\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
