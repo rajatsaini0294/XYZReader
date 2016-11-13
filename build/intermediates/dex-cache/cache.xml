@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rajat\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-bfd6829632c608edef67bb8fc496ce1fc83c87ed.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\volley-c3c033685f6a4b1cac62c121c582affab04fcfd3.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-e3da45caee486c5b4096ccda803bc67c1ce92a52.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-385b1728e85080cd3cca91994ad3c3e7f8380598.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-85ed498e21051ab21c1ac48c07dc1a7ab7586c27.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-75fffd69f4bb98008814c0bc0a0cf5f3ab16ea8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\rajat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f5232476caaf36b6d3de2642da057ff1d6b53ed8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-acb024dab487c4fe8bae3966ff7f0372a62a6bb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\rajat\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-885ff7d2c51313721f60eee17ef53c592182ea32.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-cf4610c016f166f03e2adc56bb4313d260732ca9.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-1f10ed1ba41d479f30ecf751bf134d4af38f72d7.jar" />
+    </item>
+    <item
+        jar="F:\AndroidVault\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\AndroidVault\XYZReader\build\intermediates\pre-dexed\debug\classes-175922aff432f9c846835269ee6ac2f7c18bf1df.jar" />
+    </item>
+
+</items>
